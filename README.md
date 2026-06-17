@@ -1,5 +1,5 @@
 # www.glyfio.com with Pages
-Quill weave temporary website
+glyfio temporary website
 
 ## Local Set up
 * Install Jekyll
